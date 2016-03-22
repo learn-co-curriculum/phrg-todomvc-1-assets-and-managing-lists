@@ -13,7 +13,7 @@
 
 This video is meant to be a review of the first topics in Ruby on Rails. It breifly mentions the [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) to integrate CSS, feel free to read more about that topic.
 
-There will be more vidoes building out the rest of TODOMVC.
+There will be more videos building out the rest of TODOMVC.
 
 ## Code:
 
