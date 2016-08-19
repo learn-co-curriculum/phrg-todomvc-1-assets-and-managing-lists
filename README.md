@@ -11,7 +11,7 @@
 
 [MP4](http://learn-co-videos.s3.amazonaws.com/rails/TodoMVC-1.mp4)
 
-This video is meant to be a review of the first topics in Ruby on Rails. It breifly mentions the [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) to integrate CSS, feel free to read more about that topic.
+This video is meant to be a review of the first topics in Ruby on Rails. It briefly mentions the [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) to integrate CSS, feel free to read more about that topic.
 
 There will be more videos building out the rest of TODOMVC.
 
@@ -20,3 +20,5 @@ There will be more videos building out the rest of TODOMVC.
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-0)
 - [End of Lecture 1](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-1-assets-and-managing-lists'>TodoMVC 1: Assets and Managing Lists</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/todomvc-1-assets-and-managing-lists'>TodoMVC 1: Assets and Managing Lists</a> on Learn.co and start learning to code for free.</p>
