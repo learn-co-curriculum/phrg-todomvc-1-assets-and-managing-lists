@@ -19,6 +19,4 @@ There will be more videos building out the rest of TODOMVC.
 
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-0)
 - [End of Lecture 1](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-1-assets-and-managing-lists'>TodoMVC 1: Assets and Managing Lists</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/todomvc-1-assets-and-managing-lists'>TodoMVC 1: Assets and Managing Lists</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Objectives</p>
