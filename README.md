@@ -19,4 +19,9 @@ There will be more videos building out the rest of TODOMVC.
 
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-0)
 - [End of Lecture 1](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-todomvc-1-assets-and-managing-lists/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-todomvc-1-assets-and-managing-lists/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Objectives</p>
